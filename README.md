@@ -90,11 +90,7 @@ For each tokenizer and language I computed:
 - Add GPTQ/AWQ quantization and a calibration-language comparison
 - Build a larger, professionally reviewed Urdu parallel set
 
-## Author
-
-**[YOUR NAME]**, [Your university / role]
-[LinkedIn or personal site link]
 
 ## License
 
-MIT License. See `LICENSE`.
+MIT License. 
